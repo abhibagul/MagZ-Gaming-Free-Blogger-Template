@@ -4639,7 +4639,7 @@ $(document).ready(function () {
                   var m = pm[1] - 1;
                   var pd = ' ' + ma[m] + ' ' + pm[2] + ', ' + pm[0];
 
-                  if(p.media$thumbnail.url){
+                  if(typeof(p.media$thumbnail.url) != "undefined"){
                     var pi = p.media$thumbnail.url;
 
                     //check for the location for thumbnail

@@ -3870,7 +3870,7 @@ head.appendChild(script);
       </div>
 
       <div class='footer'>
-        <div class='footer-inner container'> (C) Copyright 2019 <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>, All rights reserved.   | <a href='https://www.theme-daddy.com' target='_blank' title="Best Free WordPress Themes">ThemeDaddy - Best Themes Everytime!</a></div>
+        <div class='footer-inner container'> (C) Copyright 2019 <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>, All rights reserved.  | <a href='https://theme-daddy.blogspot.com' target='_blank' title="Best Free Blogger Themes">ThemeDaddy Best Blogger Themes</a></div>
 		</div>
 
 
